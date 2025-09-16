@@ -13,17 +13,6 @@ This project uses **Azure Automated Machine Learning** to build a model that cla
 2. An Automated ML classification job was configured and submitted.
 3. Azure AutoML automatically tried multiple algorithms (like Logistic Regression, Decision Trees, etc.) and hyperparameters.
 4. The best model was selected based on the primary metric (Accuracy).
-
-## 📊 Results & Screenshots
-### 1. Submitting the Training Job
-![Submitting the Job](screenshots/1-submit-job.png)
-
-### 2. The Run in Progress (Setting Up)
-![Run in Progress](screenshots/2-running.png)
-
-### 3. Final Accuracy and Best Model
-![Results](screenshots/3-results.png)
-
 **The best model achieved an accuracy of 0.95333 (95.33%)!**
 
 ## 🔮 Future Work
