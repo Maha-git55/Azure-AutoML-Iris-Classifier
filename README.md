@@ -1,3 +1,4 @@
+
 # Iris Flower Classification using Azure AutoML
 
 This project uses **Azure Automated Machine Learning** to build a model that classifies the species of an iris flower based on features like sepal length, sepal width, petal length, and petal width.
@@ -23,7 +24,7 @@ This project uses **Azure Automated Machine Learning** to build a model that cla
 ### 3. Final Accuracy and Best Model
 ![Results](screenshots/3-results.png)
 
-**The best model achieved an accuracy of [0.95333%]!**
+**The best model achieved an accuracy of 0.95333 (95.33%)!**
 
 ## 🔮 Future Work
 - Deploy the model as a web service.
